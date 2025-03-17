@@ -6,7 +6,7 @@ Jonathan Martinez Roman
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jonathan-martinez-7b299728b/)
 
 📫 Email: CyberBoy318i@gmail.com  
-🔗 Resume: [View My Resume](file:///C:/Users/postb/Downloads/Jonathan_Martinez_Roman_Resume.pdf)
+🔗 Resume: [View My Resume](https://onedrive.live.com/?cid=E69829ACCFD31E93&id=E69829ACCFD31E93%21se4027345e2a64be896f7d85aff5166b3&parId=root&o=OneUp)
 
 ---
 
