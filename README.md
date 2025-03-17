@@ -37,17 +37,17 @@ Here are some of my top projects showcasing my skills in cybersecurity, programm
 3️⃣ Automated Firewall Configuration (Bash/Python) 🔥
 🔹 escription: A script that automates firewall rules to enhance network security.  
 🔹 Tech Stack: Python, Bash, iptables  
-🔹 GitHub Repo: [Firewall Config](https://github.com/JonathanM-Roman/Automated-Firewall-Configuration-Bash-Python-.git))
+🔹 GitHub Repo: [Firewall Config](https://github.com/JonathanM-Roman/Automated-Firewall-Configuration-Bash-Python-.git)
 
 4️⃣ Secure Login System (HTML/CSS/JavaScript, SQL) 🔑
 🔹 Description: A secure web-based authentication system with hashed passwords and user roles.  
 🔹 Tech Stack: HTML, CSS, JavaScript, SQL  
-🔹 GitHub Repo: [Secure Login](https://github.com/JonathanM-Roman/Secure-Login-System-HTML-CSS-JavaScript-SQL-.git))
+🔹 GitHub Repo: [Secure Login](https://github.com/JonathanM-Roman/Secure-Login-System-HTML-CSS-JavaScript-SQL-.git)
 
 5️⃣ PC Build Cost Calculator (Python/JavaScript) 🖥️
 🔹 Description: A script that compares component prices and helps users budget for a PC build.  
 🔹 Tech Stack: Python, Flask, JavaScript  
-🔹 GitHub Repo: [PC Build Calculator](https://github.com/JonathanM-Roman/PC-Build-Cost-Calculator-Python-JavaScript-.git))
+🔹 GitHub Repo: [PC Build Calculator](https://github.com/JonathanM-Roman/PC-Build-Cost-Calculator-Python-JavaScript-.git)
 
 ---
 
