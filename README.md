@@ -27,27 +27,27 @@ Here are some of my top projects showcasing my skills in cybersecurity, programm
 1️⃣ Python Network Scanner 🛡️
 🔹 Description: A Python script that scans for active devices on a local network and detects open ports.  
 🔹 Tech Stack: Python, Scapy, Socket  
-🔹 GitHub Repo: [Network Scanner]([your-github-link](https://github.com/JonathanM-Roman/Python-Network-Scanner.git))
+🔹 GitHub Repo: [Network Scanner](https://github.com/JonathanM-Roman/Python-Network-Scanner.git)
 
 2️⃣ SQL Injection Vulnerability Tester 🔍
 🔹 Description: A simple Python script that checks for SQL injection vulnerabilities in web applications.  
 🔹 Tech Stack: Python, SQL, Requests  
-🔹 GitHub Repo: [SQL Tester]([your-github-link](https://github.com/JonathanM-Roman/SQL-Injection-Vulnerability-Tester.git))
+🔹 GitHub Repo: [SQL Tester](https://github.com/JonathanM-Roman/SQL-Injection-Vulnerability-Tester.git)
 
 3️⃣ Automated Firewall Configuration (Bash/Python) 🔥
 🔹 escription: A script that automates firewall rules to enhance network security.  
 🔹 Tech Stack: Python, Bash, iptables  
-🔹 GitHub Repo: [Firewall Config]([your-github-link](https://github.com/JonathanM-Roman/Automated-Firewall-Configuration-Bash-Python-.git))
+🔹 GitHub Repo: [Firewall Config](https://github.com/JonathanM-Roman/Automated-Firewall-Configuration-Bash-Python-.git))
 
 4️⃣ Secure Login System (HTML/CSS/JavaScript, SQL) 🔑
 🔹 Description: A secure web-based authentication system with hashed passwords and user roles.  
 🔹 Tech Stack: HTML, CSS, JavaScript, SQL  
-🔹 GitHub Repo: [Secure Login]([your-github-link](https://github.com/JonathanM-Roman/Secure-Login-System-HTML-CSS-JavaScript-SQL-.git))
+🔹 GitHub Repo: [Secure Login](https://github.com/JonathanM-Roman/Secure-Login-System-HTML-CSS-JavaScript-SQL-.git))
 
 5️⃣ PC Build Cost Calculator (Python/JavaScript) 🖥️
 🔹 Description: A script that compares component prices and helps users budget for a PC build.  
 🔹 Tech Stack: Python, Flask, JavaScript  
-🔹 GitHub Repo: [PC Build Calculator]([your-github-link](https://github.com/JonathanM-Roman/PC-Build-Cost-Calculator-Python-JavaScript-.git))
+🔹 GitHub Repo: [PC Build Calculator](https://github.com/JonathanM-Roman/PC-Build-Cost-Calculator-Python-JavaScript-.git))
 
 ---
 
