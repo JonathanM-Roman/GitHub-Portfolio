@@ -35,7 +35,7 @@ Here are some of my top projects showcasing my skills in cybersecurity, programm
 🔹 GitHub Repo: [SQL Tester](https://github.com/JonathanM-Roman/SQL-Injection-Vulnerability-Tester.git)
 
 3️⃣ Automated Firewall Configuration (Bash/Python) 🔥
-🔹 escription: A script that automates firewall rules to enhance network security.  
+🔹 Description: A script that automates firewall rules to enhance network security.  
 🔹 Tech Stack: Python, Bash, iptables  
 🔹 GitHub Repo: [Firewall Config](https://github.com/JonathanM-Roman/Automated-Firewall-Configuration-Bash-Python-.git)
 
