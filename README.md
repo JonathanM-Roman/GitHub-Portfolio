@@ -53,8 +53,7 @@ Here are some of my top projects showcasing my skills in cybersecurity, programm
 
 📫 Connect With Me
 💼 LinkedIn:(www.linkedin.com/in/jonathan-martinez-7b299728b)  
-📩 Email: CyberBoy318i@gmail.com  
-🌎 Portfolio Website (if applicable): [Your Portfolio URL]  
+📩 Email: CyberBoy318i@gmail.com    
 
 ---
 
