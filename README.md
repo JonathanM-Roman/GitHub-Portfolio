@@ -3,7 +3,7 @@
 Jonathan Martinez Roman
 🚀 Cybersecurity & IT Enthusiast | Network Security | Python Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jonathan-martinez-7b299728b/)
+[![LinkedIn](https://1drv.ms/b/c/ee874ae4d0e8207a/EVjs10D3Bh9Op2W3938X9MQBh6fH29RdtZByF7VEXGMfkA?e=zCYN1n)
 
 📫 Email: CyberBoy318i@gmail.com  
 🔗 Resume: [View My Resume](https://onedrive.live.com/?cid=E69829ACCFD31E93&id=E69829ACCFD31E93%21se4027345e2a64be896f7d85aff5166b3&parId=root&o=OneUp)
